@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {},
+  "function": {
+    "ecommerceapp438af107PostConfirmation": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
